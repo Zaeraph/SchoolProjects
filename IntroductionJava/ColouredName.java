@@ -1,4 +1,5 @@
 package IntroductionJava;
+//Damien Out opdracht 2.2
 import java.applet.*;
 import java.awt.*;
 
