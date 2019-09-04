@@ -1,4 +1,5 @@
 package JavaDrawing;
+//Damien Out opdracht 4.3
 import java.awt.*;
 import java.applet.*;
 
